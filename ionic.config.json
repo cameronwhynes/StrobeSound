@@ -1,0 +1,7 @@
+{
+  "name": "StrobeSound",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
